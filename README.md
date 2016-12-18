@@ -1,3 +1,1 @@
-# hello-world
-
-first ci
+$e^{i \pi} + 1 = 0$
